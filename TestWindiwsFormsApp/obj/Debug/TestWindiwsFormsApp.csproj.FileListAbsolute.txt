@@ -8,3 +8,4 @@ C:\Users\Дима\source\repos\TestWindiwsFormsApp\TestWindiwsFormsApp\obj\Debug
 C:\Users\Дима\source\repos\TestWindiwsFormsApp\TestWindiwsFormsApp\obj\Debug\TestWindiwsFormsApp.csproj.CoreCompileInputs.cache
 C:\Users\Дима\source\repos\TestWindiwsFormsApp\TestWindiwsFormsApp\obj\Debug\TestWindiwsFormsApp.exe
 C:\Users\Дима\source\repos\TestWindiwsFormsApp\TestWindiwsFormsApp\obj\Debug\TestWindiwsFormsApp.pdb
+C:\Users\Дима\source\repos\TestWindiwsFormsApp\TestWindiwsFormsApp\obj\Debug\TestWindiwsFormsApp.Form1.resources
