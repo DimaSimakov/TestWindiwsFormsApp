@@ -1,0 +1,10 @@
+C:\Users\Дима\source\repos\TestWindiwsFormsApp\TestWindiwsFormsApp\bin\Debug\TestWindiwsFormsApp.exe.config
+C:\Users\Дима\source\repos\TestWindiwsFormsApp\TestWindiwsFormsApp\bin\Debug\TestWindiwsFormsApp.exe
+C:\Users\Дима\source\repos\TestWindiwsFormsApp\TestWindiwsFormsApp\bin\Debug\TestWindiwsFormsApp.pdb
+C:\Users\Дима\source\repos\TestWindiwsFormsApp\TestWindiwsFormsApp\obj\Debug\TestWindiwsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\TestWindiwsFormsApp\TestWindiwsFormsApp\obj\Debug\TestWindiwsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дима\source\repos\TestWindiwsFormsApp\TestWindiwsFormsApp\obj\Debug\TestWindiwsFormsApp.Properties.Resources.resources
+C:\Users\Дима\source\repos\TestWindiwsFormsApp\TestWindiwsFormsApp\obj\Debug\TestWindiwsFormsApp.csproj.GenerateResource.cache
+C:\Users\Дима\source\repos\TestWindiwsFormsApp\TestWindiwsFormsApp\obj\Debug\TestWindiwsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\TestWindiwsFormsApp\TestWindiwsFormsApp\obj\Debug\TestWindiwsFormsApp.exe
+C:\Users\Дима\source\repos\TestWindiwsFormsApp\TestWindiwsFormsApp\obj\Debug\TestWindiwsFormsApp.pdb
